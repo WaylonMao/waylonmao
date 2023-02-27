@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waylonmao)](https://github.com/waylonmao)
 
-<!--
-**WaylonMao/waylonmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Weilong's GitHub stats](https://github-readme-stats.vercel.app/api?username=waylonmao&count_private=true&show_icons=true)
 
-Here are some ideas to get you started:
+👋Hi there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Weilong Mao and I'm a software development student at **[SAIT](https://www.sait.ca/)** 🏫 with a passion for technology and problem-solving.
+
+- Oracle PL/SQL
+- Spring Boot
+- MERN Stack (MongoDB, Express, React, Node.js)
+- Arduino (C/C++)
+
+As a quick learner🚀 with a strong work ethic, I'm excited to bring my skills and enthusiasm to a new opportunity in software development. If you're looking for a hard-working and dedicated software developer, please feel free to connect with me. I'd love to chat and see how we can collaborate!
+
+Here are my Linkedin💼: **[Weilong Mao](https://www.linkedin.com/in/weilong-mao/)**
