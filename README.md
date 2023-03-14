@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waylonmao&layout=compact)](https://github.com/waylonmao)
 
-
+![Weilong's GitHub stats](https://github-readme-stats.vercel.app/api?username=waylonmao&count_private=true&show_icons=true)
 
 👋Hi there!
 
