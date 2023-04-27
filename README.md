@@ -13,4 +13,4 @@ My name is Weilong Mao and I'm a software development student at **[SAIT](https:
 
 As a quick learner🚀 with a strong work ethic, I'm excited to bring my skills and enthusiasm to a new opportunity in software development. If you're looking for a hard-working and dedicated software developer, please feel free to connect with me. I'd love to chat and see how we can collaborate!
 
-Here are my Linkedin💼: **[Weilong Mao](https://www.linkedin.com/in/weilong-mao/)**
+Here is my Linkedin💼: **[Weilong Mao](https://www.linkedin.com/in/weilong-mao/)**
